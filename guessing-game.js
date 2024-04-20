@@ -17,17 +17,13 @@ function checkGuess(number) {
     }
 }
 
-// console.log(checkGuess(10));
-// console.log(checkGuess(3));
-// console.log(checkGuess(-1));
-// console.log(checkGuess(5));
 
 const readline = require("readline");
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 })
-
+// the readline method displays ansnwers on the standard output, it takes the askGuess function as callback
 rl.question("Enter a guess: ", askGuess)
 function askGuess(firstAnswer) {
     if(checkGuess(Number(firstAnswer)) === true) {
