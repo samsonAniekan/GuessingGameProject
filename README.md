@@ -4,7 +4,7 @@
 ## OBJECTIVES OF PROJECT
 The aim this project is to build a simple game where the user has to guess a secret number that is chosen at random.
 Upon making a guess, the user will receive a hint indicating if their guess is too small or too large. Below is an example of how the final product will play. 
-We've denoted the user's input with *asterisks*. All other text is produced by the computer:
+This is the initial phase of the project, the next phases are on the way
 
 ### HOW TO RUN THE PROJECT
 1. Create a folder on your computer and give it a name example (guessing-game-peoject)
