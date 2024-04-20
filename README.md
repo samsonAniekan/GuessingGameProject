@@ -7,3 +7,5 @@ We've denoted the user's input with *asterisks*. All other text is produced by t
 Create a folder on yiur pc and give it any situable name
 inside that folder create a js file copy the code inside the file and then save it
 run node <name of js file> to display your result
+
+![alt text](https://codingartistweb.com/wp-content/uploads/2023/05/Number-Guessing-Game-01-696x392.png)
