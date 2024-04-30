@@ -70,3 +70,10 @@ function askLimit() {
     })
 }
  askLimit();
+
+
+
+ function getName(name) {
+    return name.toUpperCase() + "..."  + " " +  name[0].toLowerCase() + name.slice(1) + "..." + name + "...";
+ }
+ console.log(getName("sam"));
